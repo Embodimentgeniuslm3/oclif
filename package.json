@@ -57,7 +57,7 @@
     "fancy-test": "^1.4.3",
     "globby": "^11.0.1",
     "mocha": "^8.2.1",
-    "npm-run-path": "^4.0.1",
+    "npm-run-path": "^5.1.0",
     "nps": "^5.9.3",
     "shelljs": "^0.8.3",
     "tmp": "^0.2.1",
