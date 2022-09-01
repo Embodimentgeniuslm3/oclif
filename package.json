@@ -21,7 +21,7 @@
     "fs-extra": "^8.1",
     "github-slugger": "^1.2.1",
     "lodash": "^4.17.11",
-    "normalize-package-data": "^3.0.0",
+    "normalize-package-data": "^4.0.1",
     "nps-utils": "^1.7.0",
     "qqjs": "^0.3.10",
     "sort-pjson": "^1.0.3",
