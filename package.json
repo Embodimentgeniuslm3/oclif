@@ -54,7 +54,7 @@
     "eslint-config-oclif": "^3.1.0",
     "eslint-config-oclif-typescript": "^0.2.0",
     "execa": "^0.10.0",
-    "fancy-test": "^1.4.3",
+    "fancy-test": "^2.0.2",
     "globby": "^11.0.1",
     "mocha": "^8.2.1",
     "npm-run-path": "^4.0.1",
